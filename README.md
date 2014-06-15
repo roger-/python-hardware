@@ -3,7 +3,7 @@ A collection of simple Python wrappers for various test equipment and other hard
 # Important
 
 Note that little documentation is available and many are dated, incomplete and/or buggy!
-Most of the code is probably best used as a reference for interfacing with serial,
+Most of the code is probably best used as a reference for interfacing serial,
 GPIB, USB, etc. devices with Python
 
 # Description
