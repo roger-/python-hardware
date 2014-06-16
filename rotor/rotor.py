@@ -4,7 +4,7 @@
 from __future__ import division
 import serial
 import logging
-from common import *
+from common import threadmethod, memoize_args
 import time
 
 class Rotor(object):
