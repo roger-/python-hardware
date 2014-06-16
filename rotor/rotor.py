@@ -199,5 +199,4 @@ def main():
 
 
 if __name__ == "__main__":
-        setup_default_logging()
         main()
