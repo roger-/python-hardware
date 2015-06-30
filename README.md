@@ -13,7 +13,8 @@ GPIB, USB, etc. devices with Python
 * `signalhound` - [Signal Hound USB-SA44 Spectrum Analyzer](https://www.signalhound.com/products/) (USB)
 * `hp8657a.py` - [Hewlett Packard 8657A Signal Generator](http://www.home.agilent.com/en/pd-1000002201%3Aepsg%3Apro-pn-8657A/synthesized-signal-generator-100-khz-to-1040-mhz) (GPIB\*)
 * `rotor` - [Yaesu GS-232A and Rotor-EZ antenna rotors](http://www.universal-radio.com/catalog/hamrot/4228.html) (serial)
-* `rsa300` - [Tektronix RSA306 spectrum analyzer](http://www.tek.com/spectrum-analyzer/rsa306)
+* `rsa300` - [Tektronix RSA306 Spectrum Analyzer](http://www.tek.com/spectrum-analyzer/rsa306) (USB)
+* `hp8590.py` - [HP/Agilent HP8590 Spectrum Analyzer](http://www.testequipmentdepot.com/usedequipment/hewlettpackard/spectrumanalyzers/8590de.htm) (GPIB)
 
 \* requires PyVISA < 1.6
 
