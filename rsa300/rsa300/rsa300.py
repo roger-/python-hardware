@@ -96,7 +96,7 @@ class RSA300Base(object):
         api.ResetDevice(False)
 
     def close(self):
-        api.acquire(False)
+        self.acquire(False)
         api.Disconnect()
 
     center_freq = fc = property(get_center_freq, set_center_freq)
